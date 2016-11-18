@@ -1,0 +1,72 @@
+,Amount.Requested,Amount.Funded.By.Investors,Interest.Rate,Loan.Length,Loan.Purpose,Debt.To.Income.Ratio,State,Home.Ownership,Monthly.Income,FICO.Range,Open.CREDIT.Lines,Revolving.CREDIT.Balance,Inquiries.in.the.Last.6.Months,Employment.Length,Interest.Rate.Clean,Loan.Length.Clean,FICO.Score,Region,Grade,Employment.Length.Clean,Columbus.Employment.Length
+18,14000,13900.25,10.37%,60 months,debt_consolidation,11.95%,OH,RENT,4333.33,740-744,6,7419,0,9 years,0.1037,60,740,Midwest,B,9,2
+64,9000,9000,15.80%,36 months,debt_consolidation,22.65%,OH,MORTGAGE,3250,665-669,9,16480,0,3 years,0.158,36,665,Midwest,C,3,2
+105,15000,15000,10.65%,36 months,small_business,16.15%,OH,MORTGAGE,7083.33,720-724,14,338,2,9 years,0.1065,36,720,Midwest,B,9,3
+130,16000,15950,15.70%,36 months,debt_consolidation,23.51%,OH,MORTGAGE,9333.33,675-679,20,12721,5,10+ years,0.157,36,675,Midwest,C,10,4
+187,12000,12000,16.89%,60 months,small_business,15.24%,OH,MORTGAGE,7500,675-679,14,28589,2,3 years,0.1689,60,675,Midwest,D,3,2
+197,18000,17738.58,10.59%,60 months,major_purchase,15.03%,OH,MORTGAGE,4000,755-759,9,6718,0,10+ years,0.1059,60,755,Midwest,B,10,3
+221,16450,16450,15.31%,36 months,debt_consolidation,11.66%,OH,MORTGAGE,6666.67,685-689,8,12697,3,9 years,0.1531,36,685,Midwest,C,9,5
+243,5000,4900,7.74%,36 months,other,14.40%,OH,RENT,5166.67,750-754,8,15489,1,10+ years,0.0774,36,750,Midwest,A,10,7
+307,5000,5000,9.91%,36 months,debt_consolidation,28.77%,OH,RENT,3166.67,750-754,3,0,1,n/a,0.0991,36,750,Midwest,B,10,8
+344,12300,12300,15.31%,36 months,debt_consolidation,19.26%,OH,MORTGAGE,5000,710-714,13,4460,2,10+ years,0.1531,36,710,Midwest,C,10,1
+400,16500,16400,11.71%,60 months,small_business,12.07%,OH,MORTGAGE,2750,775-779,11,2316,1,4 years,0.1171,60,775,Midwest,C,4,1
+403,10000,10000,6.03%,36 months,debt_consolidation,24.66%,OH,MORTGAGE,2940.25,755-759,8,5904,0,10+ years,0.0603,36,755,Midwest,A,10,1
+427,6000,6000,13.11%,36 months,credit_card,16.75%,OH,MORTGAGE,4166.67,670-674,9,4500,0,< 1 year,0.1311,36,670,Midwest,C,0.5,2
+436,4000,3882.78,5.79%,36 months,moving,23.94%,OH,RENT,4666.67,760-764,7,2889,2,9 years,0.0579,36,760,Midwest,A,9,3
+445,10000,10000,14.65%,36 months,debt_consolidation,16.68%,OH,MORTGAGE,8333.33,680-684,18,39461,2,4 years,0.1465,36,680,Midwest,C,4,4
+449,24000,23975,10.16%,36 months,debt_consolidation,15.53%,OH,MORTGAGE,5416.67,720-724,11,17882,0,10+ years,0.1016,36,720,Midwest,B,10,5
+531,15300,14850,11.14%,36 months,debt_consolidation,11.31%,OH,MORTGAGE,6833.33,670-674,11,7106,2,10+ years,0.1114,36,670,Midwest,B,10,1
+542,5000,5000,7.62%,36 months,debt_consolidation,8.43%,OH,MORTGAGE,2916.67,740-744,6,12444,1,10+ years,0.0762,36,740,Midwest,A,10,1
+633,4800,4800,7.90%,36 months,debt_consolidation,19.07%,OH,RENT,1500,720-724,12,6813,3,< 1 year,0.079,36,720,Midwest,A,0.5,1
+665,3600,3600,7.90%,36 months,credit_card,26.21%,OH,MORTGAGE,4166.67,735-739,19,25,2,3 years,0.079,36,735,Midwest,A,3,1
+724,5500,5500,12.69%,36 months,debt_consolidation,21.24%,OH,RENT,1666.67,680-684,7,5056,1,< 1 year,0.1269,36,680,Midwest,C,0.5,1
+735,10000,10000,13.11%,36 months,credit_card,19.01%,OH,MORTGAGE,7500,680-684,11,14426,1,9 years,0.1311,36,680,Midwest,C,9,1
+755,4200,3969.9,14.11%,36 months,home_improvement,4.62%,OH,MORTGAGE,1558.42,675-679,6,2255,1,< 1 year,0.1411,36,675,Midwest,C,0.5,2
+767,2500,2500,17.27%,36 months,other,11.34%,OH,MORTGAGE,5833.33,665-669,8,14122,0,8 years,0.1727,36,665,Midwest,D,8,2
+852,17625,17600,13.11%,36 months,credit_card,14.88%,OH,RENT,3333.33,675-679,6,20266,0,2 years,0.1311,36,675,Midwest,C,2,3
+903,7100,7100,14.09%,36 months,credit_card,19.22%,OH,RENT,4166.67,685-689,13,6788,2,2 years,0.1409,36,685,Midwest,C,2,3
+958,1200,1200,18.25%,36 months,other,24.12%,OH,RENT,1700,660-664,2,0,3,4 years,0.1825,36,660,Midwest,D,4,4
+990,16800,16800,22.47%,60 months,debt_consolidation,13.55%,OH,MORTGAGE,4000,660-664,12,12179,1,10+ years,0.2247,60,660,Midwest,E,10,4
+994,16000,15975,16.29%,36 months,debt_consolidation,32.91%,OH,OWN,3333.33,695-699,10,24134,1,2 years,0.1629,36,695,Midwest,D,2,5
+1005,5600,5600,14.33%,36 months,debt_consolidation,25.29%,OH,RENT,3333.33,675-679,8,17471,1,4 years,0.1433,36,675,Midwest,C,4,4
+1012,12300,12275,7.88%,36 months,debt_consolidation,22.14%,OH,MORTGAGE,4738.67,745-749,18,10666,2,5 years,0.0788,36,745,Midwest,A,5,3
+1039,7500,7500,5.42%,36 months,home_improvement,22.26%,OH,MORTGAGE,2583.33,785-789,11,2160,0,10+ years,0.0542,36,785,Midwest,A,10,2
+1082,18000,13003.66,11.89%,36 months,debt_consolidation,22.30%,OH,MORTGAGE,6000,745-749,16,23518,2,9 years,0.1189,36,745,Midwest,C,9,6
+1093,8000,8000,5.99%,36 months,home_improvement,9.59%,OH,MORTGAGE,7250,760-764,6,4938,0,10+ years,0.0599,36,760,Midwest,A,10,5
+1094,10000,10000,14.27%,36 months,debt_consolidation,16.61%,OH,MORTGAGE,4083.33,675-679,15,6418,2,6 years,0.1427,36,675,Midwest,C,6,4
+1097,9975,9975,7.90%,36 months,debt_consolidation,7.13%,OH,MORTGAGE,5000,720-724,17,9773,2,5 years,0.079,36,720,Midwest,A,5,2
+1158,25000,24975,20.50%,60 months,debt_consolidation,9.59%,OH,RENT,5077.58,690-694,6,17946,0,10+ years,0.205,60,690,Midwest,D,10,3
+1178,18650,18650,20.49%,36 months,debt_consolidation,20.07%,OH,MORTGAGE,4833.33,660-664,12,17740,0,10+ years,0.2049,36,660,Midwest,D,10,1
+1340,5400,5375,8.90%,36 months,small_business,6.27%,OH,RENT,3000,785-789,2,90,2,n/a,0.089,36,785,Midwest,B,10,1
+1359,18000,18000,22.47%,60 months,credit_card,17.17%,OH,MORTGAGE,5562.92,660-664,13,14866,3,7 years,0.2247,60,660,Midwest,E,7,1
+1363,8250,8205.63,9.32%,36 months,credit_card,24.45%,OH,MORTGAGE,3300,755-759,17,29576,2,8 years,0.0932,36,755,Midwest,B,8,9
+1371,5000,5000,5.42%,36 months,wedding,23.15%,OH,RENT,2833.33,750-754,7,4573,0,3 years,0.0542,36,750,Midwest,A,3,10
+1447,14500,14500,5.42%,36 months,home_improvement,7.15%,OH,MORTGAGE,10000,800-804,9,40,0,10+ years,0.0542,36,800,Midwest,A,10,10
+1481,6650,6650,18.25%,60 months,debt_consolidation,17.12%,OH,MORTGAGE,3084,680-684,16,5646,2,3 years,0.1825,60,680,Midwest,D,3,9
+1531,1775,1775,6.54%,36 months,debt_consolidation,19.77%,OH,RENT,3333.33,725-729,11,2038,0,< 1 year,0.0654,36,725,Midwest,A,0.5,8
+1541,2000,2000,16.29%,36 months,home_improvement,30.58%,OH,MORTGAGE,4166.67,670-674,9,3313,1,2 years,0.1629,36,670,Midwest,D,2,7
+1605,2700,2700,5.79%,36 months,debt_consolidation,19.81%,OH,MORTGAGE,3958.33,750-754,14,13159,1,8 years,0.0579,36,750,Midwest,A,8,6
+1650,12000,12000,9.88%,36 months,educational,5.16%,OH,MORTGAGE,3333.33,755-759,7,1117,3,3 years,0.0988,36,755,Midwest,B,3,4
+1660,10000,10000,13.11%,36 months,debt_consolidation,9.14%,OH,MORTGAGE,5416.67,700-704,6,8119,1,7 years,0.1311,36,700,Midwest,C,7,4
+1673,10000,10000,14.65%,36 months,major_purchase,19.25%,OH,MORTGAGE,8083.33,675-679,14,9246,1,10+ years,0.1465,36,675,Midwest,C,10,3
+1704,28000,28000,7.62%,36 months,debt_consolidation,19.21%,OH,MORTGAGE,14166.67,730-734,10,49026,0,10+ years,0.0762,36,730,Midwest,A,10,2
+1713,15000,10765.99,7.88%,36 months,credit_card,3.90%,OH,RENT,10000,755-759,8,6055,2,5 years,0.0788,36,755,Midwest,A,5,2
+1734,10750,10750,14.09%,36 months,other,26.14%,OH,RENT,2666.67,720-724,3,9800,0,8 years,0.1409,36,720,Midwest,C,8,2
+1760,10000,10000,15.80%,36 months,debt_consolidation,13.57%,OH,MORTGAGE,4583.33,675-679,16,24989,1,10+ years,0.158,36,675,Midwest,C,10,2
+1782,13075,13075,11.99%,60 months,debt_consolidation,22.52%,OH,MORTGAGE,7291.67,715-719,14,27622,0,10+ years,0.1199,60,715,Midwest,C,10,2
+1805,2000,2000,14.35%,36 months,debt_consolidation,22.06%,OH,OWN,3600,665-669,10,14234,1,6 years,0.1435,36,665,Midwest,C,6,1
+1819,24000,24000,6.54%,36 months,debt_consolidation,5.62%,OH,MORTGAGE,9583.33,755-759,9,22725,2,3 years,0.0654,36,755,Midwest,A,3,1
+1866,4600,4600,5.42%,36 months,home_improvement,3.38%,OH,MORTGAGE,3664.25,775-779,6,3127,0,10+ years,0.0542,36,775,Midwest,A,10,1
+1913,20000,20000,17.58%,60 months,debt_consolidation,18.45%,OH,RENT,4250,700-704,10,11805,0,4 years,0.1758,60,700,Midwest,D,4,1
+1937,4000,4000,14.33%,36 months,debt_consolidation,25.86%,OH,MORTGAGE,3333.33,675-679,12,19443,1,9 years,0.1433,36,675,Midwest,C,9,1
+1952,24250,17431.82,12.23%,60 months,credit_card,23.79%,OH,MORTGAGE,5833.33,730-734,6,31061,2,10+ years,0.1223,60,730,Midwest,C,10,2
+1956,21000,21000,14.33%,60 months,debt_consolidation,6.16%,OH,MORTGAGE,8333.33,715-719,10,22196,0,10+ years,0.1433,60,715,Midwest,C,10,2
+2013,24000,14860.05,13.61%,60 months,debt_consolidation,10.77%,OH,MORTGAGE,7750,715-719,11,2594,2,5 years,0.1361,60,715,Midwest,C,5,2
+2076,12000,12000,21.98%,60 months,debt_consolidation,12.94%,OH,MORTGAGE,2866.5,665-669,5,9626,1,10+ years,0.2198,60,665,Midwest,E,10,3
+2080,13000,12975,9.99%,60 months,home_improvement,8.77%,OH,MORTGAGE,10500,800-804,8,6810,0,10+ years,0.0999,60,800,Midwest,B,10,3
+2101,5000,5000,11.14%,36 months,credit_card,18.30%,OH,RENT,4665.83,690-694,21,4677,0,4 years,0.1114,36,690,Midwest,B,4,3
+2239,4800,4800,13.99%,36 months,medical,7.39%,OH,RENT,5833.33,680-684,9,170,2,1 year,0.1399,36,680,Midwest,C,10,3
+2267,9250,9200,11.89%,36 months,debt_consolidation,16.28%,OH,MORTGAGE,5416.67,745-749,14,10111,6,6 years,0.1189,36,745,Midwest,C,6,4
+2420,8000,8000,18.49%,36 months,debt_consolidation,23.37%,OH,OWN,5000,670-674,17,18248,1,10+ years,0.1849,36,670,Midwest,D,10,4
+2482,27000,27000,6.62%,36 months,debt_consolidation,12.21%,OH,MORTGAGE,9250,810-814,12,4211,0,5 years,0.0662,36,810,Midwest,A,5,1
+2485,15000,15000,10.16%,36 months,credit_card,28.28%,OH,MORTGAGE,6666.67,690-694,15,14880,0,10+ years,0.1016,36,690,Midwest,B,10,1
